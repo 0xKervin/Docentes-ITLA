@@ -1,0 +1,6 @@
+{
+  "name": "Docentes ITLA",
+  "description": "Aplicación para consultar y publicar reseñas, calificaciones y recomendaciones de profesores del ITLA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
